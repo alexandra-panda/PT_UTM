@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: reply
+Version: 0.2
+Summary: Test your front-end calls easily!
+Home-page: https://github.com/JavierLuna/reply
+Author: Javier Luna Molina
+Author-email: javierlunamolina@gmail.com
+License: UNKNOWN
+Description: Make a simple server to test your front-end or mobile app calls
+Platform: any
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Server
